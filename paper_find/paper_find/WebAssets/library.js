@@ -289,4 +289,3 @@ let library;
 document.addEventListener('DOMContentLoaded', () => {
     library = new LibraryManager();
 });
-
